@@ -1,0 +1,5 @@
+- This was my first project using javascript and it definitely opened my perspective to all that is possible with javascript. 
+
+- Following The Odin Project, I first created a function that would return the results I wanted on the console. I found this very useful at the beginning as I wasn't concerned about what appeared on the actual site. I was focused entirely on learning the basic components of javascript. I learned how to return random results with Math and how to structure things.
+
+- The next step was redoing the javascript so it would show up on the actual page. This taught me two important ideas. One, that coding is a lot of rewriting (I bascially had to rewrite my entire function and code from before). And two, I learned the importance of the dom (this took me off on a bit of rabbit hole and I spent a solid day and half reading about the dom) and event listeners and how powerful they are.
